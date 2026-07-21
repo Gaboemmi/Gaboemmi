@@ -1,67 +1,79 @@
 # Hi, I'm Gabriel Emmi 👋
 
-Senior Frontend Engineer passionate about building scalable, maintainable and high-quality software.
+**Senior Frontend Engineer** focused on building scalable, maintainable, and high-quality software.
 
-I specialize in Angular enterprise applications, frontend architecture, monorepo design and engineering practices that help teams build better software.
+I enjoy designing frontend architectures that remain simple to evolve, easy to understand, and reliable over time. My main expertise is building enterprise applications with Angular, improving engineering practices, and helping teams deliver software with confidence.
 
-Recently, I've been focused on integrating AI into software engineering workflows, using tools like Cursor to improve productivity while maintaining code quality and engineering standards.
+More recently, I've been exploring how AI can enhance software engineering. Rather than building AI systems, I focus on integrating AI into the development workflow through structured context, engineering guidelines, and tools like Cursor to improve productivity while maintaining code quality.
 
 ---
 
 ## What I'm currently focused on
 
-- 🏗️ Building scalable Angular applications
-- 📦 Nx monorepo architecture
-- 🧪 Testing and software quality
-- 🤖 AI-assisted software development
-- 📚 Knowledge sharing
-- 🚀 Engineering productivity
+* 🏗 Building scalable Angular applications
+* 📦 Designing Nx monorepos
+* 🧩 Frontend architecture
+* 🧪 Testing and software quality
+* 🤖 AI-assisted software development
+* 📚 Sharing engineering knowledge
 
 ---
 
 ## Engineering Principles
 
-- Build for maintainability.
-- Keep architecture simple.
-- Prioritize readability over cleverness.
-- Automate repetitive work.
-- Use AI to amplify engineering, not replace it.
+* Build software that is designed to last.
+* Keep architecture simple and maintainable.
+* Prioritize readability over clever solutions.
+* Automate repetitive work whenever possible.
+* Use AI to amplify engineering, not replace it.
+* Never stop learning.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
+### Frontend
 
-Angular • TypeScript • RxJS • HTML • CSS • SCSS
+* Angular
+* TypeScript
+* RxJS
+* HTML
+* SCSS
 
-**Architecture**
+### Architecture
 
-Nx • Monorepos • Domain-Driven Design • REST APIs
+* Nx
+* Monorepos
+* Domain-Driven Design
+* REST APIs
 
-**Testing**
+### Testing
 
-Jest • Vitest • Testing Library
+* Jest
+* Unit Testing
+* Integration Testing
 
-**Tools**
+### Tools
 
-Cursor • Git • GitHub Actions • Docker • VS Code
+* Cursor
+* Git
+* GitHub Actions
+* Docker
 
 ---
 
 ## Featured Projects
 
-Coming soon...
+These repositories are currently under development and will showcase my approach to engineering rather than just code.
 
-- 🚀 Angular Enterprise Starter
-- 🏗️ Nx Enterprise Template
-- 🤖 Cursor Engineering Rules
-- 📚 Angular Best Practices
-- 🧪 Testing Guidelines
+* 🚀 Angular Enterprise Starter
+* 🏗 Nx Enterprise Template
+* 🤖 Cursor Engineering Rules
+* 📚 Angular Best Practices
+* 🧪 Engineering Notes
 
 ---
 
-## Let's connect
+## Connect with me
 
-- LinkedIn
-- GitHub Discussions (future)
+* LinkedIn
