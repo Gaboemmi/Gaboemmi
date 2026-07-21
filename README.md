@@ -34,31 +34,19 @@ More recently, I've been exploring how AI can enhance software engineering. Rath
 
 ### Frontend
 
-* Angular
-* TypeScript
-* RxJS
-* HTML
-* SCSS
+* Angular * TypeScript * RxJS * HTML * SCSS
 
 ### Architecture
 
-* Nx
-* Monorepos
-* Domain-Driven Design
-* REST APIs
+* Nx * Monorepos * Domain-Driven Design * REST APIs
 
 ### Testing
 
-* Jest
-* Unit Testing
-* Integration Testing
+* Jest * Unit Testing * Integration Testing
 
 ### Tools
 
-* Cursor
-* Git
-* GitHub Actions
-* Docker
+* Cursor * Git * GitHub Actions * Docker
 
 ---
 
@@ -76,4 +64,6 @@ These repositories are currently under development and will showcase my approach
 
 ## Connect with me
 
-* LinkedIn
+<a href="https://www.linkedin.com/in/gabriel-emmi/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
