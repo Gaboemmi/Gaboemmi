@@ -1,9 +1,5 @@
 <div align="center">
 
-# Clean Architecture.
-# Scalable Software.
-# Real Impact.
-
 ### Senior Software Engineer • Angular • Nx • AI-Assisted Development
 
 Building software that teams enjoy maintaining.
