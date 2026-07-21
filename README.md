@@ -1,69 +1,144 @@
-# Hi, I'm Gabriel Emmi 👋
+<div align="center">
 
-**Senior Frontend Engineer** focused on building scalable, maintainable, and high-quality software.
+# Clean Architecture.
+# Scalable Software.
+# Real Impact.
 
-I enjoy designing frontend architectures that remain simple to evolve, easy to understand, and reliable over time. My main expertise is building enterprise applications with Angular, improving engineering practices, and helping teams deliver software with confidence.
+### Senior Software Engineer • Angular • Nx • AI-Assisted Development
 
-More recently, I've been exploring how AI can enhance software engineering. Rather than building AI systems, I focus on integrating AI into the development workflow through structured context, engineering guidelines, and tools like Cursor to improve productivity while maintaining code quality.
+Building software that teams enjoy maintaining.
 
----
+<br>
 
-## What I'm currently focused on
+<a href="https://www.linkedin.com/in/gabriel-emmi">
+    <img src="https://img.shields.io/badge/LinkedIn-Gabriel%20Emmi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-* 🏗 Building scalable Angular applications
-* 📦 Designing Nx monorepos
-* 🧩 Frontend architecture
-* 🧪 Testing and software quality
-* 🤖 AI-assisted software development
-* 📚 Sharing engineering knowledge
-
----
-
-## Engineering Principles
-
-* Build software that is designed to last.
-* Keep architecture simple and maintainable.
-* Prioritize readability over clever solutions.
-* Automate repetitive work whenever possible.
-* Use AI to amplify engineering, not replace it.
-* Never stop learning.
+</div>
 
 ---
 
-## Tech Stack
+# 👋 Hi, I'm Gabriel
+
+I'm a Senior Software Engineer passionate about building software that lasts.
+
+I specialize in designing enterprise frontend platforms where architecture, maintainability, engineering quality and AI-assisted development work together.
+
+Over the past years I've worked on large-scale business applications, helping teams build products that remain scalable, easy to understand and enjoyable to evolve.
+
+More recently I've been focused on integrating AI into software engineering workflows—not to replace engineers, but to amplify their capabilities through context, engineering standards and modern development practices.
+
+---
+
+# 🏗 What I Build
+
+- Enterprise Angular applications
+- Scalable Nx monorepos
+- Frontend architecture
+- Reusable engineering patterns
+- Design systems
+- AI-assisted engineering workflows
+- High-quality developer experience
+
+---
+
+# 💡 Engineering Philosophy
+
+> Great software is designed before it's coded.
+
+I believe software quality starts long before implementation.
+
+Good software comes from understanding the problem, designing the architecture and creating engineering practices that allow teams to move faster without sacrificing quality.
+
+My principles are simple:
+
+- Build software that is designed to last.
+- Simplicity scales better than complexity.
+- Readability beats clever code.
+- Automate repetitive engineering work.
+- AI should amplify engineers, not replace them.
+- Never stop learning.
+
+---
+
+# ⚙️ Tech Stack
 
 ### Frontend
 
-Angular - TypeScript - RxJS - HTML - SCSS
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,scss"/>
+</p>
 
 ### Architecture
 
-Nx - Monorepos - Domain-Driven Design - REST APIs
+- Nx Monorepos
+- Domain-Driven Design
+- REST APIs
+- OpenAPI
+- Modular Architecture
 
 ### Testing
 
-Jest - Unit Testing - Integration Testing
+- Jest
+- Vitest
+- Unit Testing
+- Integration Testing
 
-### Tools
+### Engineering
 
-Cursor - Git - GitHub Actions
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode"/>
+</p>
+
+**AI Workflow**
+
+- Cursor
+- ChatGPT
+- AI-Assisted Development
+- Engineering Guidelines
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-These repositories are currently under development and will showcase my approach to engineering rather than just code.
+These repositories are not simple demos.
 
-* 🚀 Angular Enterprise Starter
-* 🏗 Nx Enterprise Template
-* 🤖 Cursor Engineering Rules
-* 📚 Angular Best Practices
-* 🧪 Engineering Notes
+Each project represents a real engineering challenge or an architectural approach that I believe helps build better software.
+
+| Project | Description |
+|---------|-------------|
+| 🏗 Angular Enterprise Starter | Enterprise-ready Angular + Nx architecture |
+| 📦 Nx Enterprise Template | Scalable monorepo foundation |
+| 🤖 AI Engineering Rules | Rules and workflows for AI-assisted development |
+| 🧩 Frontend Architecture Patterns | Reusable architecture examples |
+| 📚 Engineering Notes | Thoughts about software architecture and engineering |
 
 ---
 
-## Connect with me
+# 📖 Currently Learning
 
-<a href="https://www.linkedin.com/in/gabriel-emmi/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+- AI Engineering
+- Angular ecosystem
+- Nx
+- Enterprise Architecture
+- Software Design
+- Developer Experience
+
+---
+
+# 🌍 Let's Connect
+
+I'm always interested in discussing:
+
+- Software Architecture
+- Angular
+- Nx
+- Engineering Practices
+- AI-Assisted Development
+- Frontend Engineering
+
+<p>
+<a href="https://www.linkedin.com/in/gabriel-emmi">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+</p>
