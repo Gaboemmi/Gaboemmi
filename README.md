@@ -117,8 +117,6 @@ Each project represents a real engineering challenge or an architectural approac
 - Angular ecosystem
 - Nx
 - Enterprise Architecture
-- Software Design
-- Developer Experience
 
 ---
 
