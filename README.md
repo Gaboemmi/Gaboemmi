@@ -34,19 +34,19 @@ More recently, I've been exploring how AI can enhance software engineering. Rath
 
 ### Frontend
 
-* Angular * TypeScript * RxJS * HTML * SCSS
+Angular - TypeScript - RxJS - HTML - SCSS
 
 ### Architecture
 
-* Nx * Monorepos * Domain-Driven Design * REST APIs
+Nx - Monorepos - Domain-Driven Design - REST APIs
 
 ### Testing
 
-* Jest * Unit Testing * Integration Testing
+Jest - Unit Testing - Integration Testing
 
 ### Tools
 
-* Cursor * Git * GitHub Actions * Docker
+Cursor - Git - GitHub Actions
 
 ---
 
